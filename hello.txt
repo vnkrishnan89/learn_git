@@ -2,4 +2,4 @@ first line
 second line by second user
 second line
 Third line branch1
-chnaged in master before branch2 merge
+changed in branch2
