@@ -1,1 +1,2 @@
 first line
+second line by second user
